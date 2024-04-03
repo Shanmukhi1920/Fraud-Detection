@@ -1,10 +1,10 @@
 
 # Overview
-This project aims to delve deeply into credit card fraud detection using a data-driven approach to identify fraudulent transactions by employing various machine learning models to analyze patterns and characteristics of fraud. Through meticulous data preprocessing, feature engineering, and model evaluation, the study explores the intricacies of transaction data to enhance fraud detection methodologies with a focus on prioritizing recall to capture more fraud cases without significantly affecting precision..
+This project aims to delve deeply into credit card fraud detection using a data-driven approach to identify fraudulent transactions by employing various machine learning models to analyze patterns and characteristics of fraud. Through meticulous data preprocessing, feature engineering, and model evaluation, the study explores the intricacies of transaction data to enhance fraud detection methodologies with a focus on prioritizing recall to capture more fraud cases without significantly affecting precision.
+
+**Data Link:** https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 # Repository Contents
-- `FraudTrain.csv`: The training dataset includes various features related to credit card transactions along with the target variable indicating whether each transaction is fraudulent.
-- `FraudTest.csv`: The test dataset, structured like the training dataset, is used to evaluate the performance of the machine learning models trained on FraudTrain.csv.
 - `Fraud.ipynb`: A Jupyter notebook containing the code, analysis, and machine learning model implementations for the project. This notebook includes data preprocessing, exploratory data analysis, feature engineering, class balancing, model training, and evaluation sections.
 - `results.xlsx`:  An Excel file containing the results of various models tuned with specific parameters. Each sheet within the file corresponds to a different model, providing a comprehensive overview of the model performance.
 - `CreditCard_Fraud_Detection.pdf`: A presentation detailing the project's objectives, methodology, analysis, findings, and conclusions. This presentation is designed to provide a clear and concise overview of the project for stakeholders.
