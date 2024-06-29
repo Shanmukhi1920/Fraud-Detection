@@ -5,9 +5,9 @@ This project aims to delve deeply into credit card fraud detection using a data-
 **Data Link:** https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 # Repository Contents
-- `Fraud.ipynb`: A Jupyter notebook containing the code, analysis, and machine learning model implementations for the project. This notebook includes data preprocessing, exploratory data analysis, feature engineering, class balancing, model training, and evaluation sections.
-- `results.xlsx`:  An Excel file containing the results of various models tuned with specific parameters. Each sheet within the file corresponds to a different model, providing a comprehensive overview of the model performance.
-- `CreditCard_Fraud_Detection.pdf`: A presentation detailing the project's objectives, methodology, analysis, findings, and conclusions. This presentation is designed to provide a clear and concise overview of the project for stakeholders.
+- `notebooks/Fraud.ipynb`: A Jupyter notebook containing the code, analysis, and machine learning model implementations for the project. This notebook includes data preprocessing, exploratory data analysis, feature engineering, class balancing, model training, and evaluation sections.
+- `docs/results.xlsx`:  An Excel file containing the results of various models tuned with specific parameters. Each sheet within the file corresponds to a different model, providing a comprehensive overview of the model performance.
+- `docs/CreditCard_Fraud_Detection.pdf`: A presentation detailing the project's objectives, methodology, analysis, findings, and conclusions. This presentation is designed to provide a clear and concise overview of the project for stakeholders.
 
 # Methodology
 1. **Data Collection**
@@ -38,7 +38,7 @@ cd Fraud_Detection
 pip install -r requirements.txt
 jupyter notebook
 ```
-Then, open `Fraud.ipynb` in Jupyter.
+Then, open `Fraud.ipynb` in Jupyter in the `notebooks/` directory.
 
 # Key Findings
 **Model Performance:** Random Forest outperformed other models in terms of recall, with Gradient Boosting showing similar overall effectiveness.
