@@ -1,0 +1,8 @@
+pandas==2.0.3
+numpy==1.23.5
+matplotlib==3.7.5
+seaborn=0.12.2
+scikit-learn==1.2.2
+scipy==1.11.1
+folium==0.16.0
+imbalanced-learn==0.12.0
