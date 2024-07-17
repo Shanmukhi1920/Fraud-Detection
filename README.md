@@ -1,6 +1,6 @@
 
 # Overview
-This project aims to delve deeply into credit card fraud detection using a data-driven approach to identify fraudulent transactions by employing various machine learning models to analyze patterns and characteristics of fraud. Through meticulous data preprocessing, feature engineering, and model evaluation, the study explores the intricacies of transaction data to enhance fraud detection methodologies with a focus on prioritizing recall to capture more fraud cases without significantly affecting precision.
+This project aims to conduct an in-depth analysis of credit card fraud detection using a data-driven approach. A key focus of the study is the evaluation of various machine learning models, with particular emphasis on optimizing recall to capture a higher number of fraud cases while maintaining an acceptable level of precision. This comprehensive approach not only aims to improve fraud detection accuracy but also contributes to the broader understanding of effective strategies in combating financial fraud in real-world scenarios.
 
 **Data Link:** https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
